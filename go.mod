@@ -1,4 +1,4 @@
-module github.com/nikla/aether
+module github.com/BryanNikla/aether
 
 go 1.21
 
